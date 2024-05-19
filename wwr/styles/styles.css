@@ -33,11 +33,11 @@ main section {
 
 #background {
   height: 725px;
-  background-color: white;
+  background-color: #041622;
 }
 
 body {
-  background-color: #041622;
+  background-color: white;
 }
 
 header {
